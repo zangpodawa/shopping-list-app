@@ -6,32 +6,44 @@ This is a simple shopping list app created using React. The app consists of six 
 
 App.js
 Main component that holds every other component.
+
 Form.js
 Responsible for obtaining user input, including shopping item descriptions and quantities.
+
 Item.js
 Marks the bought items with a line-through CSS property (textDecoration).
+
 Logo.js
 Header component that includes the app logo and title.
+
 PackingList.js
 Displays the shopping list items and provides sorting options by order, description, and bought items.
 Includes a button to clear the entire shopping list.
+
 Stats.js
 Displays the selected items and the total number of items with a percentage.
-Acknowledgements
 
-This React app was originally taught by Jonas, and modifications were made during the learning process. Special thanks to Jonas for the initial guidance.
+## Acknowledgements
 
-/Users/dawazangpo/Desktop/Homepage.png
+This React app was originally taught by Jonas Schmedtmann from Udemy, and modifications were made during the learning process. Special thanks to Jonas for the initial guidance.
 
-/Users/dawazangpo/Desktop/Shopping item.png
+![Homepage](https://github.com/zangpodawa/shopping-list-app/assets/32727869/665a0962-b466-4f24-bd93-1b7766f3a4f8)
 
-/Users/dawazangpo/Desktop/Shopping item check.png
+![Shopping item](https://github.com/zangpodawa/shopping-list-app/assets/32727869/912b77c0-fb55-4f00-bc1f-cc45f564a54d)
 
-/Users/dawazangpo/Desktop/Shopping itemm all check.png
+![Shopping item check](https://github.com/zangpodawa/shopping-list-app/assets/32727869/08c114db-0a01-400a-9364-bd4d3b0a0f97)
 
-/Users/dawazangpo/Desktop/shooping item sorting.png
+![Shopping itemm all check](https://github.com/zangpodawa/shopping-list-app/assets/32727869/240dfb7a-1f24-4173-8a8d-65a673075979)
 
-/Users/dawazangpo/Desktop/Shoping item clear list.png
+![shooping item sorting](https://github.com/zangpodawa/shopping-list-app/assets/32727869/2f4200c9-7805-429b-afa1-2bd8e3d4057b)
+
+![Shoping item clear list](https://github.com/zangpodawa/shopping-list-app/assets/32727869/d11242ee-c37a-4a5d-8cb9-15c1b08056b1)
+
+
+
+
+
+
 
 
 
